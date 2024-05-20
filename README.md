@@ -1,7 +1,7 @@
 # ENSE-375-Software Testing and Validation project
 Team members                                                                                                                                                                                                         
-Poojan Patel - 200518202 
-Bilal Alissa - 200384288
+Poojan Patel - 200518202                                                                                                                                                                                             
+Bilal Alissa - 200384288                                                                                                                                                                                             
 Pruthvi Patel - 200509419                                                                                                                                                                                            
 
 Project Title:
