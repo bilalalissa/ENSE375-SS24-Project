@@ -17,5 +17,5 @@ This project focuses on designing and developing EduTrack, a Java-based personal
 This repository consists of project-related testing of the Edutrack Application. 
 
 1. [Project Idea and Problem Definition](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/01-ProplemDefinition/Introduction_and_DefiningProblem.docx)
-2. [pdf]([Introduction_and_DefiningProblem.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/01-ProplemDefinition/Introduction_and_DefiningProblem.pdf)
+2. [pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/01-ProplemDefinition/Introduction_and_DefiningProblem.pdf)
 
