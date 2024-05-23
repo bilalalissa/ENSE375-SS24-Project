@@ -15,6 +15,8 @@ This project focuses on designing and developing EduTrack, a Java-based personal
 
 ## Content
 
+1. [Project Idea and Problem Definition] (https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/01-ProplemDefinition/Introduction_and_DefiningProblem.docx)
+
 Reasons for Academic Failure in College Students
 1.	Lack of Time Management:
 According to a study by the University of Minnesota, 87% of students face difficulties in managing their time effectively, leading to academic failure.
