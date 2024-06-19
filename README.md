@@ -19,5 +19,5 @@ This repository consists of project-related testing of the Edutrack Application.
 1. [Project Idea and Problem Definition](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/01-ProplemDefinition/Introduction_and_DefiningProblem.pdf)
 
 2. [Design Constraints and Requiremets](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/02-Design%20Constraints%20and%20Requirements/Design%20Constraints%20and%20Requirements.pdf)
-3. [Iterative Engineering Design Process](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/Iterative%20Engineering%20Design%20Process/Iterative%20Engineering%20Design%20Process.pdf)
+3. [Iterative Engineering Design Process](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/03-Iterative%20Engineering%20Design%20Process/Solution.pdf)
 
