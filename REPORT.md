@@ -41,19 +41,19 @@ Refer to the document: [EduTrack Application Flow Chart](https://github.com/bila
 Testing for the EduTrack application includes various methodologies like path testing, data flow testing, logic coverage testing, integration testing, boundary value testing, equivalence class testing, decision table testing, state transition testing, and use case testing. The detailed test cases and results are documented in the following sections:
 
 #### 5.1.1 Path Testing
-Refer to the document: [PathTesting.docx](PathTesting.docx)
+Refer to the document: [PathTesting.docx](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/PathTesting.docx)
 
 #### 5.1.2 Data Flow Testing
-Refer to the document: [DataFlowTestingForUserManager.docx](DataFlowTestingForUserManager.docx)
+Refer to the document: [DataFlowTestingForUserManager.docx](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/DataFlowTestingForUserManager.docx)
 
 #### 5.1.3 Logic Coverage Testing
-Refer to the document: [LogicCoverageTestingForUserManager.docx](LogicCoverageTestingForUserManager.docx)
+Refer to the document: [LogicCoverageTestingForUserManager.docx](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/LogicCoverageTestingForUserManager.docx)
 
 #### 5.1.4 Integration Testing
-Refer to the document: [IntegrationTesting.docx](IntegrationTesting.docx)
+Refer to the document: [IntegrationTesting.docx](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/IntegrationTesting.docx)
 
 #### 5.1.5 Boundary Value Testing
-Refer to the document: [BoundaryValueTest.docx](BoundaryValueTest.docx)
+Refer to the document: [BoundaryValueTest.docx](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/BoundaryValueTest.docx)
 
 #### 5.1.6 Equivalence Class Testing
 Refer to the document: [EquivalenceClassTesting.docx](EquivalenceClassTesting.docx)
