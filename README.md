@@ -20,5 +20,5 @@ This repository consists of project-related testing of the Edutrack Application.
 
 2. [Design Constraints and Requiremets](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/02-Design%20Constraints%20and%20Requirements/Design%20Constraints%20and%20Requirements.pdf)
 3. [Iterative Engineering Design Process](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/03-Iterative%20Engineering%20Design%20Process/Solution.pdf)
-4. [Final Design, Implementation and Testing](https://github.com/bilalalissa/ENSE375-SS24-Project/tree/main/04-Final%20Design%2C%20Implementation%20and%20Testing)
+4. [Final Design, Implementation and Testing](https://github.com/bilalalissa/ENSE375-SS24-Project/tree/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing)
 
