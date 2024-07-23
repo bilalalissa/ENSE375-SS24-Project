@@ -69,9 +69,19 @@ Refer to the document: [UseCaseTesting.pdf](https://github.com/bilalalissa/ENSE3
 
 ## 6. Conclusion and Future Work
 
-The EduTrack application successfully integrates user, course, task, schedule management, and export functionalities. Future work could focus on the following areas:
-- **Improving Task Management**: Enhancing the user interface for task management to provide better usability and functionality.
-- **Improving Schedule Management**: Adding features such as automatic reminders and notifications for scheduled tasks and events.
+●	Conclusion: In this project, we successfully designed and developed EduTrack, a Java-based academic planner that meets the functional, objective, and constraint requirements outlined at the project's start. The application includes features for organizing, tracking, notifying, analyzing, personalizing, and integrating academic activities. By focusing on software testing and validation, we ensured a reliable and user-friendly solution. Our structured engineering design process and rigorous testing methodologies, including boundary value testing, equivalence class testing, and use case testing, helped deliver a robust application aimed at improving students' academic performance through better time management and study habits.
+
+●	Future Work: Given the limitations of the current solution, future design improvements could include:
+  1.	Implementing persistent storage to retain user data across sessions.
+  2.	Enhancing scalability to handle larger datasets and more concurrent users.
+  3.	Integrating with other academic and productivity tools like Learning Management Systems (LMS) and email clients.
+  4.	Adding engaging features such as gamification elements, progress rewards, or social sharing options to increase user 
+      motivation and consistent usage.
+  5.	Improving Task Management: Future versions could focus on enhancing task management features, such as adding 
+      reminders, task prioritization, and better user interfaces for task tracking.
+  6.	Improving Schedule Management: Enhancing the schedule management system with features like calendar integration, 
+      automatic reminders, and a more user-friendly interface could greatly improve user experience.
+
 
 ## 7. References
 
