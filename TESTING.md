@@ -50,7 +50,7 @@
 
 For a detailed breakdown of the testing methodologies and individual test cases, refer to the following documents:
 
-1. **Path Testing**: [PathTesting.docx](PathTesting.docx)
+1. **Path Testing**: [PathTesting.docx](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/DataFlowTestingForUserManager.docx)
 2. **Data Flow Testing**: [DataFlowTestingForUserManager.docx](DataFlowTestingForUserManager.docx)
 3. **Logic Coverage Testing**: [LogicCoverageTestingForUserManager.docx](LogicCoverageTestingForUserManager.docx)
 4. **Integration Testing**: [IntegrationTesting.docx](IntegrationTesting.docx)
