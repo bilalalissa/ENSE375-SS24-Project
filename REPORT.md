@@ -84,4 +84,4 @@ The EduTrack application successfully integrates user, course, task, schedule ma
 
 ## 9. List of Tables
 
-*No tables included in this document.*
+*No tables are included in this document.*
