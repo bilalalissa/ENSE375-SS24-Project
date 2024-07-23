@@ -59,13 +59,13 @@ Refer to the document: [BoundaryValueTest.pdf](https://github.com/bilalalissa/EN
 Refer to the document: [EquivalenceClassTesting.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/EquivalenceClassTesting.pdf)
 
 #### 5.1.7 Decision Table Testing
-Refer to the document: [DecisionTablesTesting.docx](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/DecisionTablesTesting.pdf)
+Refer to the document: [DecisionTablesTesting.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/DecisionTablesTesting.pdf)
 
 #### 5.1.8 State Transition Testing
-Refer to the document: [StateTransitionTesting.docx](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/StateTransitionTesting.pdf)
+Refer to the document: [StateTransitionTesting.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/StateTransitionTesting.pdf)
 
 #### 5.1.9 Use Case Testing
-Refer to the document: [UseCaseTesting.docx](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/UseCaseTesting.pdf)
+Refer to the document: [UseCaseTesting.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/UseCaseTesting.pdf)
 
 ## 6. Conclusion and Future Work
 
