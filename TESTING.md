@@ -50,14 +50,14 @@
 
 For a detailed breakdown of the testing methodologies and individual test cases, refer to the following documents:
 
-1. **Path Testing**: [PathTesting.docx](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/DataFlowTestingForUserManager.docx)
-2. **Data Flow Testing**: [DataFlowTestingForUserManager.docx](DataFlowTestingForUserManager.docx)
-3. **Logic Coverage Testing**: [LogicCoverageTestingForUserManager.docx](LogicCoverageTestingForUserManager.docx)
-4. **Integration Testing**: [IntegrationTesting.docx](IntegrationTesting.docx)
-5. **Boundary Value Testing**: [BoundaryValueTest.docx](BoundaryValueTest.docx)
-6. **Equivalence Class Testing**: [EquivalenceClassTesting.docx](EquivalenceClassTesting.docx)
-7. **Decision Table Testing**: [DecisionTablesTesting.docx](DecisionTablesTesting.docx)
-8. **State Transition Testing**: [StateTransitionTesting.docx](StateTransitionTesting.docx)
-9. **Use Case Testing**: [UseCaseTesting.docx](UseCaseTesting.docx)
+1. **Path Testing**: [PathTesting.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/PathTesting.pdf)
+2. **Data Flow Testing**: [DataFlowTestingForUserManager.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/DataFlowTestingForUserManager.pdf)
+3. **Logic Coverage Testing**: [LogicCoverageTestingForUserManager.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/LogicCoverageTestingForUserManager.pdf)
+4. **Integration Testing**: [IntegrationTesting.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/IntegrationTesting.pdf)
+5. **Boundary Value Testing**: [BoundaryValueTest.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/BoundaryValueTest.pdf)
+6. **Equivalence Class Testing**: [EquivalenceClassTesting.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/EquivalenceClassTesting.pdf)
+7. **Decision Table Testing**: [DecisionTablesTesting.pdf]([DecisionTablesTesting.docx](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/DecisionTablesTesting.pdf))
+8. **State Transition Testing**: [StateTransitionTesting.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/StateTransitionTesting.pdf)
+9. **Use Case Testing**: [UseCaseTesting.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/UseCaseTesting.pdf)
 
 These documents provide comprehensive details on each type of testing applied to the EduTrack application, including specific test cases, results, and any identified issues.
