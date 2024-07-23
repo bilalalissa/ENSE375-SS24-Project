@@ -98,7 +98,7 @@ Refer to the document: [UseCaseTesting.pdf](https://github.com/bilalalissa/ENSE3
 | Figure 4 | 34 |
 | Figure 5 | 59 |
 | Figure 6 | 63 |
-| Figure 6 | 68 |
+| Figure 7 | 68 |
 
 
 ## 9. List of Tables
