@@ -85,12 +85,19 @@ Refer to the document: [UseCaseTesting.pdf](https://github.com/bilalalissa/ENSE3
 
 ## 7. References
 
-- Arshdeep, Bahga, and Vijay Madisetti. *Cloud Computing: A Hands-On Approach*. Universities Press, 2013.
-- IEEE Standard for Software Unit Testing, IEEE Std 1008-1987.
+  1. https://psycnet.apa.org/record/2018-35570-001
+  2. https://cew.georgetown.edu/cew-reports/workinglearners/
 
 ## 8. List of Figures
 
-1. **EduTrack Application Flow Chart**: Page 3
+Figure 1	.................................................................................................13
+Figure 2	.................................................................................................17
+Figure 3	.................................................................................................19
+Figure 4	.................................................................................................34
+Figure 5	.................................................................................................59
+Figure 6	.................................................................................................63
+Figure 7	.................................................................................................68
+
 
 ## 9. List of Tables
 
