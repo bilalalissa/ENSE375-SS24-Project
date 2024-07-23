@@ -92,9 +92,13 @@ Refer to the document: [UseCaseTesting.pdf](https://github.com/bilalalissa/ENSE3
 
 | Name of Figure   | Page Number   |
 |------------|------------|
-| Figure 1 | R13 |
-| Row 2 Col 1| Row 2 Col 2|
-| Row 3 Col 1| Row 3 Col 2|
+| Figure 1 | 13 |
+| Figure 2 | 17 |
+| Figure 3 | 19 |
+| Figure 4 | 34 |
+| Figure 5 | 59 |
+| Figure 6 | 63 |
+| Figure 6 | 68 |
 
 
 ## 9. List of Tables
