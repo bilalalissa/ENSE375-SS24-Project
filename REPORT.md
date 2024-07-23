@@ -53,7 +53,7 @@ Refer to the document: [LogicCoverageTestingForUserManager.docx](https://github.
 Refer to the document: [IntegrationTesting.docx](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/IntegrationTesting.docx)
 
 #### 5.1.5 Boundary Value Testing
-Refer to the document: [BoundaryValueTest.docx](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/BoundaryValueTest.docx)
+Refer to the document: [BoundaryValueTest.docx](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/BoundaryValueTest.pdf)
 
 #### 5.1.6 Equivalence Class Testing
 Refer to the document: [EquivalenceClassTesting.docx](EquivalenceClassTesting.docx)
