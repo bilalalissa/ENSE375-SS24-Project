@@ -103,4 +103,21 @@ Refer to the document: [UseCaseTesting.pdf](https://github.com/bilalalissa/ENSE3
 
 ## 9. List of Tables
 
-*No tables are included in this document.*
+| Title   | Page Number   |
+|------------|------------|
+| Table 1 (Test Case Table) | 40 |
+| Table 2 (Valid Cases Table (Weak Normal ECT))	 | 46 |
+| Table 3 (Valid Cases Table (Strong Normal ECT))	 | 46 |
+| Table 4 (Invalid Cases Table (Weak Robust ECT))	 | 47 |
+| Table 5 (Invalid Cases Table (Strong Robust ECT))	 | 48 |
+| Table 6 (Example Combinations) | 51 |
+| Table 7 (Decision Table) | 52 |
+| Table 8 (State Transition Table) | 55 |
+| Table 9 (Use Case 1: User Signup and Login)	 | 61 |
+| Table 10 (Use Case 2: User Profile Update)	 | 61 |
+| Table 11 (Use Case 3: User Logout)	 | 61 |
+|Table 12 (Use Case 4: User Account Deletion)	 | 62 |
+|Table 13 (Meeting 1) | 67 |
+| Table 14 (Meeting 2) | 67 |
+|Table 15 (Meeting 3) | 68 |
+| Table 16 (Meeting 4) | 68 |
