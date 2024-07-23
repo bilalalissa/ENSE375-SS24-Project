@@ -41,7 +41,7 @@ Refer to the document: [EduTrack Application Flow Chart](https://github.com/bila
 Testing for the EduTrack application includes various methodologies like path testing, data flow testing, logic coverage testing, integration testing, boundary value testing, equivalence class testing, decision table testing, state transition testing, and use case testing. The detailed test cases and results are documented in the following sections:
 
 #### 5.1.1 Path Testing
-Refer to the document: [PathTesting.docx](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/PathTesting.pdf)
+Refer to the document: [PathTesting.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/PathTesting.pdf)
 
 #### 5.1.2 Data Flow Testing
 Refer to the document: [DataFlowTestingForUserManager.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/DataFlowTestingForUserManager.pdf)
