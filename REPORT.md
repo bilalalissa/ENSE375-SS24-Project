@@ -32,7 +32,7 @@ The `ExportManager` class enables the export of user, course, and schedule infor
 
 ## 4. Flow Chart
 
-![EduTrack Application Flow Chart]([EduTrackAppFlowChart.png](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/EduTrackAppFlowChart.png))
+Refer to the document: [EduTrack Application Flow Chart]((https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/EduTrackAppFlowChart.png))
 
 ## 5. Testing
 
