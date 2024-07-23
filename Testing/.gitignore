@@ -1,0 +1,13 @@
+/UserManagerTest.class
+/CourseManagerTest.class
+/TaskManagerTest.class
+/UserManager_PathTesting.class
+/UserManager_DataFlowTesting.class
+/UserManager_LogicCoverageTesting.class
+/UserManager_IntegrationTesting.class
+/IntegrationTest.class
+/BoundaryValueTest.class
+/EquivalenceClassTest.class
+/DecisitionTablesTest.class
+/StateTransitionTest.class
+/UseCaseTest.class
