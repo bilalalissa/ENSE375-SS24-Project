@@ -60,20 +60,21 @@ Task Assignments:
 
 # Pruthvi Patel
 
-## Task 2: Solution Descriptions
+### Task 2: Solution Descriptions
 
 - **Write detailed descriptions for Solution 1 and Solution 2.**
 - **Explain why these solutions were not selected.**
 
-## Task 5: Final Solution and Environmental, Societal, Safety, and Economic Considerations
+### Task 5: Final Solution and Environmental, Societal, Safety, and Economic Considerations
 
 - **Write a detailed description of the final solution.**
 - **Document the environmental, societal, safety, and economic considerations for the project.**
 
-## Task 8: References and Appendices
+### Task 8: References and Appendices
 
 - **Compile all references using IEEE reference style.**
 - **Gather and organize any additional information for the appendix section.**
+
 
 # Bilal Alissa
 
