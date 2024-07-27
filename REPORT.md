@@ -38,44 +38,62 @@ Refer to the document: [EduTrack Application Flow Chart](https://github.com/bila
 Since this is a group project, you must have a fair distribution of tasks among yourselves. To this end, you must hold meetings to discuss the distribution of tasks and to keep a track of the project progress.
 Task Assignments:
 
-**Poojan Patel**
-  Task 1: Problem Definition and Design Requirements
-  ●	Write the detailed problem definition section.
-  ●	Research and document statistics supporting the problem.
-  ●	Define the design requirements including functions, objectives, and constraints.
-  Task 4: Components and Features
-  ●	Document the components used in the solution.
-  ●	Describe the features and constraints satisfied by the solution.
-  ●	Provide a block diagram representing the connectivity and interaction between components.
-  Task 7: Conclusion and Future Work
-  ●	Summarize the achievements of the project.
-  ●	Document the design functions, objectives, and constraints achieved.
-  ●	Provide recommendations for future design improvements.
-  
-**Pruthvi Patel**
-  Task 2: Solution Descriptions
-  ●	Write detailed descriptions for Solution 1 and Solution 2.
-  ●	Explain why these solutions were not selected.
-  Task 5: Final Solution and Environmental, Societal, Safety, and Economic Considerations
-  ●	Write a detailed description of the final solution.
-  ●	Document the environmental, societal, safety, and economic considerations for the project.
-  Task 8: References and Appendices
-  ●	Compile all references using IEEE reference style.
-  ●	Gather and organize any additional information for the appendix section.
+# Poojan Patel
 
-**Bilal Alissa**
-  Task 3: Testing and Limitations
-  ●	Design test cases and document the testing methodology used.
-  ●	Execute test cases and document the results.
-  ●	Describe the limitations of the current solution.
-  Task 6: Team Work and Project Management
-  ●	Document the meeting details including agendas and task distributions.
-  ●	Create a Gantt chart showing the progress of the project.
-  ●	Identify the critical path and slack time for each task.
-  Task 9: Verify and Review
-  ●	Review all sections for consistency and completeness.
-  ●	Ensure that the document flows logically and all parts are well-integrated.
-  ●	Make final edits and prepare the document for submission.
+## Task 1: Problem Definition and Design Requirements
+
+- **Write the detailed problem definition section.**
+- **Research and document statistics supporting the problem.**
+- **Define the design requirements including functions, objectives, and constraints.**
+
+## Task 4: Components and Features
+
+- **Document the components used in the solution.**
+- **Describe the features and constraints satisfied by the solution.**
+- **Provide a block diagram representing the connectivity and interaction between components.**
+
+## Task 7: Conclusion and Future Work
+
+- **Summarize the achievements of the project.**
+- **Document the design functions, objectives, and constraints achieved.**
+- **Provide recommendations for future design improvements.**
+
+# Pruthvi Patel
+
+## Task 2: Solution Descriptions
+
+- **Write detailed descriptions for Solution 1 and Solution 2.**
+- **Explain why these solutions were not selected.**
+
+## Task 5: Final Solution and Environmental, Societal, Safety, and Economic Considerations
+
+- **Write a detailed description of the final solution.**
+- **Document the environmental, societal, safety, and economic considerations for the project.**
+
+## Task 8: References and Appendices
+
+- **Compile all references using IEEE reference style.**
+- **Gather and organize any additional information for the appendix section.**
+
+# Bilal Alissa
+
+## Task 3: Testing and Limitations
+
+- **Design test cases and document the testing methodology used.**
+- **Execute test cases and document the results.**
+- **Describe the limitations of the current solution.**
+
+## Task 6: Team Work and Project Management
+
+- **Document the meeting details including agendas and task distributions.**
+- **Create a Gantt chart showing the progress of the project.**
+- **Identify the critical path and slack time for each task.**
+
+## Task 9: Verify and Review
+
+- **Review all sections for consistency and completeness.**
+- **Ensure that the document flows logically and all parts are well-integrated.**
+- **Make final edits and prepare the document for submission.**
 
 **5.1	Meeting 1**
 Time:  May 22, 2024, 10:00 AM to 11:00 AM
