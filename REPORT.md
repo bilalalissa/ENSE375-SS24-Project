@@ -81,7 +81,7 @@ Time:  May 22, 2024, 10:00 AM to 11:00 AM
 Agenda: Distribution of Project Tasks
 
 | Team Member Name  | Previous Task  | Completion Task  | Next Task  |
-|------------|------------|------------|
+|------------|------------|------------|------------|
 | Poojan Patel | N/A | N/A | Task 1 |
 | Pruthvi Patel |N/A | N/A | Task 2 |
 | Bilal Alissa |N/A | N/A | Task 3 |
