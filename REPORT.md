@@ -226,5 +226,5 @@ Refer to the document: [UseCaseTesting.pdf](https://github.com/bilalalissa/ENSE3
 |Table 15 (Meeting 3) | 68 |
 | Table 16 (Meeting 4) | 68 |
 
-## 11. Report.pdf
-
+## 11. Report [Report.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/Report/Project_Report.pdf
+)
