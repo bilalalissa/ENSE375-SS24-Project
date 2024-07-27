@@ -37,6 +37,7 @@ Refer to the document: [EduTrack Application Flow Chart](https://github.com/bila
 ## 5. Team Work 
 Since this is a group project, you must have a fair distribution of tasks among yourselves. To this end, you must hold meetings to discuss the distribution of tasks and to keep a track of the project progress.
 Task Assignments:
+
 **Poojan Patel**
   Task 1: Problem Definition and Design Requirements
   ●	Write the detailed problem definition section.
@@ -95,6 +96,26 @@ Agenda: Review of Individual Progress
 | Poojan Patel | Task 1 | 90% | Task 1, Task 4 |
 | Pruthvi Patel |Task 2 | 85% | Task 2, Task 5 |
 | Bilal Alissa |Task 3 | 100%| Task 6 |
+
+**5.3	Meeting 3**
+Time: June 21, 2024, 10:00 AM to 11:00 AM
+Agenda: Integration of Components and Initial Testing
+
+| Team Member Name  | Previous Task  | Completion Task  | Next Task  |
+|------------|------------|------------|------------|
+| Poojan Patel | Task 1, Task 4 | 85% | Finalize Task 1, Task 7 |
+| Pruthvi Patel |Task 2, Task 5 | 95% | Finalize Task 2, Task 8 |
+| Bilal Alissa |Task 6| 100%| Task 9 |
+
+**5.3	Meeting 4**
+Time: July 12, 2024, 3:00 PM to 4:00 PM
+Agenda: Final Review and Preparation for Submission
+
+| Team Member Name  | Previous Task  | Completion Task  | Next Task  |
+|------------|------------|------------|------------|
+| Poojan Patel | Task 1, Task 4 | 100% | Review |
+| Pruthvi Patel |Task 2, Task 5 | 100% | Review |
+| Bilal Alissa |Task 9| 100%| Review |
 
   
 ## 5. Testing
