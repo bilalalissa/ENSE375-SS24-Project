@@ -86,6 +86,16 @@ Agenda: Distribution of Project Tasks
 | Pruthvi Patel |N/A | N/A | Task 2 |
 | Bilal Alissa |N/A | N/A | Task 3 |
 
+**5.2	Meeting 2**
+Time: June 1, 2024, 2:00 PM to 3:00 PM
+Agenda: Review of Individual Progress
+
+| Team Member Name  | Previous Task  | Completion Task  | Next Task  |
+|------------|------------|------------|------------|
+| Poojan Patel | Task 1 | 90% | Task 1, Task 4 |
+| Pruthvi Patel |Task 2 | 85% | Task 2, Task 5 |
+| Bilal Alissa |Task 3 | 100%| Task 6 |
+
   
 ## 5. Testing
 
