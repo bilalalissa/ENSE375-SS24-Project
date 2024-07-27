@@ -38,21 +38,21 @@ Refer to the document: [EduTrack Application Flow Chart](https://github.com/bila
 Since this is a group project, you must have a fair distribution of tasks among yourselves. To this end, you must hold meetings to discuss the distribution of tasks and to keep a track of the project progress.
 Task Assignments:
 
-# Poojan Patel
+### Poojan Patel
 
-## Task 1: Problem Definition and Design Requirements
+#### Task 1: Problem Definition and Design Requirements
 
 - **Write the detailed problem definition section.**
 - **Research and document statistics supporting the problem.**
 - **Define the design requirements including functions, objectives, and constraints.**
 
-## Task 4: Components and Features
+#### Task 4: Components and Features
 
 - **Document the components used in the solution.**
 - **Describe the features and constraints satisfied by the solution.**
 - **Provide a block diagram representing the connectivity and interaction between components.**
 
-## Task 7: Conclusion and Future Work
+#### Task 7: Conclusion and Future Work
 
 - **Summarize the achievements of the project.**
 - **Document the design functions, objectives, and constraints achieved.**
@@ -77,21 +77,21 @@ Task Assignments:
 
 
 
-# Bilal Alissa
+### Bilal Alissa
 
-## Task 3: Testing and Limitations
+#### Task 3: Testing and Limitations
 
 - **Design test cases and document the testing methodology used.**
 - **Execute test cases and document the results.**
 - **Describe the limitations of the current solution.**
 
-## Task 6: Team Work and Project Management
+#### Task 6: Team Work and Project Management
 
 - **Document the meeting details including agendas and task distributions.**
 - **Create a Gantt chart showing the progress of the project.**
 - **Identify the critical path and slack time for each task.**
 
-## Task 9: Verify and Review
+#### Task 9: Verify and Review
 
 - **Review all sections for consistency and completeness.**
 - **Ensure that the document flows logically and all parts are well-integrated.**
@@ -138,40 +138,40 @@ Agenda: Final Review and Preparation for Submission
 | Bilal Alissa |Task 9| 100%| Review |
 
   
-## 5. Testing
+## 6. Testing
 
-### 5.1 Test Cases and Results
+### 6.1 Test Cases and Results
 
 Testing for the EduTrack application includes various methodologies like path testing, data flow testing, logic coverage testing, integration testing, boundary value testing, equivalence class testing, decision table testing, state transition testing, and use case testing. The detailed test cases and results are documented in the following sections:
 
-#### 5.1.1 Path Testing
+#### 6.1.1 Path Testing
 Refer to the document: [PathTesting.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/PathTesting.pdf)
 
-#### 5.1.2 Data Flow Testing
+#### 6.1.2 Data Flow Testing
 Refer to the document: [DataFlowTestingForUserManager.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/DataFlowTestingForUserManager.pdf)
 
-#### 5.1.3 Logic Coverage Testing
+#### 6.1.3 Logic Coverage Testing
 Refer to the document: [LogicCoverageTestingForUserManager.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/LogicCoverageTestingForUserManager.pdf)
 
-#### 5.1.4 Integration Testing
+#### 6.1.4 Integration Testing
 Refer to the document: [IntegrationTesting.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/IntegrationTesting.pdf)
 
-#### 5.1.5 Boundary Value Testing
+#### 6.1.5 Boundary Value Testing
 Refer to the document: [BoundaryValueTest.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/BoundaryValueTest.pdf)
 
-#### 5.1.6 Equivalence Class Testing
+#### 6.1.6 Equivalence Class Testing
 Refer to the document: [EquivalenceClassTesting.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/EquivalenceClassTesting.pdf)
 
-#### 5.1.7 Decision Table Testing
+#### 6.1.7 Decision Table Testing
 Refer to the document: [DecisionTablesTesting.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/DecisionTablesTesting.pdf)
 
-#### 5.1.8 State Transition Testing
+#### 6.1.8 State Transition Testing
 Refer to the document: [StateTransitionTesting.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/StateTransitionTesting.pdf)
 
-#### 5.1.9 Use Case Testing
+#### 6.1.9 Use Case Testing
 Refer to the document: [UseCaseTesting.pdf](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing/UseCaseTesting.pdf)
 
-## 6. Conclusion and Future Work
+## 7. Conclusion and Future Work
 
 ●	Conclusion: In this project, we successfully designed and developed EduTrack, a Java-based academic planner that meets the functional, objective, and constraint requirements outlined at the project's start. The application includes features for organizing, tracking, notifying, analyzing, personalizing, and integrating academic activities. By focusing on software testing and validation, we ensured a reliable and user-friendly solution. Our structured engineering design process and rigorous testing methodologies, including boundary value testing, equivalence class testing, and use case testing, helped deliver a robust application aimed at improving students' academic performance through better time management and study habits.
 
@@ -187,12 +187,12 @@ Refer to the document: [UseCaseTesting.pdf](https://github.com/bilalalissa/ENSE3
       automatic reminders, and a more user-friendly interface could greatly improve user experience.
 
 
-## 7. References
+## 8. References
 
   1. https://psycnet.apa.org/record/2018-35570-001
   2. https://cew.georgetown.edu/cew-reports/workinglearners/
 
-## 8. List of Figures
+## 9. List of Figures
 
 | Name of Figure   | Page Number   |
 |------------|------------|
@@ -205,7 +205,7 @@ Refer to the document: [UseCaseTesting.pdf](https://github.com/bilalalissa/ENSE3
 | Figure 7 | 68 |
 
 
-## 9. List of Tables
+## 10. List of Tables
 
 | Title   | Page Number   |
 |------------|------------|
@@ -225,3 +225,6 @@ Refer to the document: [UseCaseTesting.pdf](https://github.com/bilalalissa/ENSE3
 | Table 14 (Meeting 2) | 67 |
 |Table 15 (Meeting 3) | 68 |
 | Table 16 (Meeting 4) | 68 |
+
+## 11. Report.pdf
+
