@@ -26,6 +26,10 @@ This repository consists of project-related testing of the Edutrack Application.
 This folder contains code and test cases.
 1. [Code](https://github.com/bilalalissa/ENSE375-SS24-Project/tree/main/Code)
 
+## Presentation
+The presentation slides of EduTrack Application
+1. [Presenation Slides](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/Presentation/Project%20Presentation%20.pptx)
+
 ## Project Testing and Demonstration
 This is the demo presentation of our EduTarck Application.
 
