@@ -30,6 +30,6 @@ This folder contains code and test cases.
 This is the demo presentation of our EduTarck Application.
 
 1. [Project Demo-1 By Bilal Alissa](https://drive.google.com/file/d/19OPlpyaLlh8q8eh9IsL9TEWsWem5IGKH/view?usp=drive_link)
-2. [Project Demo-2 By Pruthvi Patel]()
-3. [Project Demo-3 By Poojan Patel]()
+2. [Project Demo-2 By Pruthvi Patel](https://drive.google.com/file/d/1a4uLqejpX_KrsvFSXzvJS3DMXY0FmFIi/view?usp=drive_link)
+3. [Project Demo-3 By Poojan Patel](https://drive.google.com/file/d/1p66aoGeFuxqgewS7h5X9t0Vp11H_fffr/view?usp=drive_link)
 
