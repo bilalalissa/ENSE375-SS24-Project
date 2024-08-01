@@ -22,3 +22,14 @@ This repository consists of project-related testing of the Edutrack Application.
 3. [Iterative Engineering Design Process](https://github.com/bilalalissa/ENSE375-SS24-Project/blob/main/03-Iterative%20Engineering%20Design%20Process/Solution.pdf)
 4. [Final Design, Implementation and Testing](https://github.com/bilalalissa/ENSE375-SS24-Project/tree/main/04-Final%20Design%2C%20Implementation%20and%20Testing/Testing)
 
+## Code
+This folder contains code and test cases.
+1. [Code](https://github.com/bilalalissa/ENSE375-SS24-Project/tree/main/Code)
+
+## Project Testing and Demonstration
+This is the demo presentation of our EduTarck Application.
+
+1. [Project Demo-1 By Bilal Alissa](https://drive.google.com/file/d/19OPlpyaLlh8q8eh9IsL9TEWsWem5IGKH/view?usp=drive_link)
+2. [Project Demo-2 By Pruthvi Patel]()
+3. [Project Demo-3 By Poojan Patel]()
+
